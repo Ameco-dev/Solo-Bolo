@@ -4,7 +4,7 @@
 > Ceci est la première version de la méthode elle est donc vouée à s'améliorer.
 ---
 
-## 🚀 Pourquoi ce projet ?
+## Pourquoi ce projet ?
 
 - **Apprendre par la pratique**
 - **Se former en autonomie**
