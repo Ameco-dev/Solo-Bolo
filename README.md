@@ -45,12 +45,6 @@ Basée sur :
 
 ---
 
-## 📚 Ressources utiles
-
-👉 [Voir la liste complète](./RESOURCES.md)
-
----
-
 ## 🤝 Contribuer
 
 - Forkez ce repo
