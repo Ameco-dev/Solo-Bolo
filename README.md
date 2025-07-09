@@ -1,7 +1,7 @@
 # 🛡️ Méthode Solo-Bolo
 
-> Une méthode DIY, minimaliste, et orientée projets pour apprendre la cybersécurité à la sauce 42.
-+ Ceci est la première version de la méthode elle est donc vouée à s'améliorer.
++ Une méthode DIY, minimaliste, et orientée projets pour apprendre la cybersécurité à la sauce 42.
+> Ceci est la première version de la méthode elle est donc vouée à s'améliorer.
 ---
 
 ## 🚀 Pourquoi ce projet ?
