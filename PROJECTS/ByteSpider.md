@@ -6,9 +6,9 @@
 
 #### **Consignes :**
 
-- Crée un script qui explore un site à partir d’une URL de départ.
+- Crée un script python qui explore un site à partir d’une URL de départ.
 - Récupère tous les liens internes, images et scripts.
 - Cherche des patterns intéressants (emails, numéros de version, mots clés, num de tel).
 - Génère un rapport de reconnaissance (sitemap, infos trouvées).
 
-**Cible** : [Bad Store]([https://owasp.org/www-project-juice-shop/](https://github.com/jvhoof/badstore-docker)) en LOCAL
+**Cible** : [Bad Store](https://github.com/jvhoof/badstore-docker) en LOCAL
