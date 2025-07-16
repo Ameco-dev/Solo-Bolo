@@ -2,7 +2,7 @@
 
 > **Mission :**  
 > Développe un web crawler capable de récupérer des pages, d’extraire des liens et de détecter des patterns (emails).  
-> Utilise-le pour cartographier la home page de Bad Store en local.
+> Utilise-le pour cartographier la home page du Juice Shop en local.
 
 #### **Consignes :**
 
@@ -11,4 +11,4 @@
 - Cherche des patterns intéressants (emails, numéros de version, mots clés, num de tel).
 - Génère un rapport de reconnaissance (sitemap, infos trouvées).
 
-**Cible** : [Bad Store](https://github.com/jvhoof/badstore-docker) en LOCAL
+**Cible** : [Juice Shop](https://hub.docker.com/r/bkimminich/juice-shop) en LOCAL
